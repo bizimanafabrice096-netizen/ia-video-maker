@@ -1,0 +1,6 @@
+{
+  "name": "Sunlit Woods - 4K Cinematic AI Video Experience",
+  "description": "Photorealistic 4K cinematic video and generation studio of a golden retriever and dairy cow walking through a sun-drenched forest with volumetric god rays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
